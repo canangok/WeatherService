@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HavaDurumu</string>
+    <string name="button">Hava Durumu Getir</string>
+    <string name="sehir_giriniz">Şehir Giriniz</string>
+</resources>
